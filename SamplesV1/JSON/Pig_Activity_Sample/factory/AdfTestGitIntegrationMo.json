@@ -1,0 +1,9 @@
+{
+	"name": "AdfTestGitIntegrationMo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f3dd4ab9-50b1-429a-8932-d3f1d9d7a804",
+		"tenantId": "8821ba75-c5ad-4d67-b897-fc1393b34e1a"
+	}
+}
